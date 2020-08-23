@@ -10,7 +10,7 @@ This is a framework for easy development of new AI Research Projects.
 - [x] AI project structure.
 - [x] Tensorflow, Keras and Scikit-learn.
 - [x] HPC jobs manager.
-- [ ] Pip Package.
+- [x] Pip Package.
 - [ ] Weight and Bias easy setup.
 - [ ] Notebooks.
 - [ ] Nose unit tests.
