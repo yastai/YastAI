@@ -6,12 +6,12 @@ This is a framework for easy development of new AI Research Projects.
 
 ## Features
 
-- [ ] Anaconda Envirment.
+- [x] Anaconda Envirment.
+- [x] AI project structure.
+- [x] Tensorflow, Keras and Scikit-learn.
+- [x] HPC jobs manager.
 - [ ] Pip Package.
-- [ ] AI project structure.
-- [ ] Tensorflow, Keras and Scikit-learn.
 - [ ] Weight and Bias easy setup.
-- [ ] HPC jobs manager.
 - [ ] Notebooks.
 - [ ] Nose unit tests.
 - [ ] Singularity container.

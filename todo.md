@@ -1,9 +1,12 @@
+# Alpha 
 [x] sbatch
 [x] "Clean" AI package 
-[ ] Create enviroment
+[x] Create enviroment
+[x] Folder Structure
+
+# Example 
 [ ] A simple keras image classificator) 
 [ ] Experiments config files and tutorial
-[ ] train folder
-[ ] notebooks folder
-[ ] test folder
+
+# Doc
 [ ] YastAI README
