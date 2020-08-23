@@ -10,7 +10,7 @@ This is a framework for easy development of new AI Research Projects.
 - [x] AI project structure.
 - [x] Tensorflow, Keras and Scikit-learn.
 - [x] HPC jobs manager.
-- [ ] Pip Package.
+- [x] Pip Package.
 - [ ] Weight and Bias easy setup.
 - [ ] Notebooks.
 - [ ] Nose unit tests.
@@ -100,3 +100,26 @@ TODO
 
 TODO
 
+Requiere PyPi and TestPyPi accounts
+
+[doc](https://packaging.python.org/tutorials/packaging-projects/)
+
+```
+conda activate ./.env
+python setup.py sdist bdist_wheel
+twine check ./*
+```
+
+#### Test PyPi
+
+
+```
+twine upload --repository testpypi dist/*
+```
+
+
+#### Upload in PyPi
+
+```
+twine upload dist/*
+```
