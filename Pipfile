@@ -24,6 +24,7 @@ nose = "*"
 wandb = "*"
 tqdm = "*"
 twine = "*"
+xlrd = "*"
 
 [dev-packages]
 "flake8" = "*"
