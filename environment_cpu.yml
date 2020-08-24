@@ -9,7 +9,7 @@ dependencies:
   - xlrd
   - tensorflow-probability
   - seaborn
-  - tensorflow-gpu
+  - tensorflow=*=mkl*
   - matplotlib
   - scipy
   - numpy
